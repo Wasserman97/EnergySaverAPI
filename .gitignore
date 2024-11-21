@@ -1,0 +1,13 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.cache
+*.vscode/
+*.DS_Store
+*.tmp
+*.bak
+appsettings.Development.json
+*.csv
